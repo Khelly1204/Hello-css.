@@ -1,0 +1,20 @@
+body{
+    color: #414141; /* Dark gray */
+    background-color: #EEEEEE; /* Light gray */
+}
+
+h1{
+    font-family: "Helvetica", "Aerial", sans-serif;
+}
+
+h2{
+    font-family: "Helvetica", "Aerial", sans-serif;
+}
+
+h3{
+    font-family: "Helvetica", "Aerial", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Helvetica", "Aerial", sans-serif;
+}
